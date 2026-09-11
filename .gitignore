@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large datasets
+*.csv
+*.xlsx
+*.zip
+
+# Trained model files
+*.pkl
+*.pt
+*.pth
+*.h5
+
+# Google Colab / local files
+/content/
+/drive/
